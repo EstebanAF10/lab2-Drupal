@@ -1,0 +1,8 @@
+uuid: e6718546-381f-4d13-be4f-5f282a91d41c
+langcode: en
+status: true
+dependencies: {  }
+name: 'License Type'
+vid: license_type
+description: 'Types of content licenses '
+weight: 0
